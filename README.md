@@ -19,10 +19,10 @@ Machine learning model predicting placement packages based on academic and skill
 ### Customer Support CRM
 Full-stack ticket management system with ticket assignment, priorities, status tracking, CSV export, and analytics.
 
-## Deepfake Detection System
+### Deepfake Detection System
 Deep learning solution for detecting AI-generated and manipulated facial content through computer vision, deep learning and soft computing techniques.
 
-## Tech Layoffs Dashboard
+### Tech Layoffs Dashboard
 Power BI dashboard uncovering workforce trends, layoffs, hiring patterns, and industry insights across the tech sector.
 
 ### Social Media Analytics Dashboard
